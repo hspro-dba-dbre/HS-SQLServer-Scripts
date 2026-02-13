@@ -1,6 +1,6 @@
 # HS-SQLServer-Scripts 🛠
 
-This repository contains a collection of T-SQL scripts designed to simplify, automate and diagnose common issues faced by SQL Server DBA's!
+This repository contains a collection of T-SQL scripts designed to simplify, automate and diagnose common issues faced by SQL Server DBA's / DBRE's!
 
 ### Key Scripts/Features
 - Performance Tuning
