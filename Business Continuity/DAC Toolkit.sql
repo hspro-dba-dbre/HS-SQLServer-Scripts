@@ -1,13 +1,14 @@
 /* ---------------------------------------------
 |      DAC Toolkit PRO - HS                    |
 |      Hugo Silva Database Administrator PRO   |
-|      Copyright (C) 2022 - 2025 HS PRO        |
+|      Copyright (C) 2022 - 2026 HS PRO        |
 |      Licensed under the MIT License.         |
 */ ---------------------------------------------
 
 /*
  * Dedicated Administrator Connection Toolkit - Business Continuity Module
  * This script sets up the necessary queries for DAC and troubleshoot resources gaps.
+ * DAC Full Article: https://www.linkedin.com/pulse/definitive-dac-dedicated-administrator-connection-hugo-silva-lima-nwmbe
  */
 
 /* Query 01: Check quantity of sessions and pool exhaustion
